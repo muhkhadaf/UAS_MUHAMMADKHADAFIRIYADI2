@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "crypto_price_app",
+            "cwd": "uas_khadafi\\crypto_price_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "crypto_price_app (profile mode)",
+            "cwd": "uas_khadafi\\crypto_price_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "crypto_price_app (release mode)",
+            "cwd": "uas_khadafi\\crypto_price_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
